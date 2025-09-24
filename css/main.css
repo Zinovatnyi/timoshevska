@@ -134,6 +134,7 @@ h1,
 h2,
 h3 {
   margin: 0;
+  padding-top: 1;
   font-weight: 400; }
   h1.lg-heading,
   h2.lg-heading,
@@ -319,3 +320,4 @@ main {
       font-size: 3.7rem; }
   .projects {
     grid-template-columns: 1fr; } }
+
