@@ -46,7 +46,7 @@
     transition: all 0.5s ease-out; }
     .menu-nav.show {
       transform: translate3d(0, 0, 0); 
-     opacity: 0.9; }
+     opacity: 1; }
   .menu-branding {
     background: #bacbdb;
     transform: translate3d(0, 100%, 0);
@@ -320,4 +320,5 @@ main {
       font-size: 3.7rem; }
   .projects {
     grid-template-columns: 1fr; } }
+
 
